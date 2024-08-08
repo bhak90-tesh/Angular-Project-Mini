@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "asdff",
+      "class": "ddd",
+      "address": "latur",
+      "email": "ashutoshpatil359@gmail.com",
+      "city": "Dhankwdi Pune",
+      "password": "123456"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
